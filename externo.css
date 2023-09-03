@@ -1,0 +1,31 @@
+.div-a {
+    background-color: #eb92ee;
+    width: 250px;
+    height: 250px;
+}
+
+.div-b {
+    background-color: #04fe01;
+    width: 125px;
+    height: 125px;
+}
+
+.paragrafo {
+    color: black;
+    background-color: blanchedalmond;
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: inherit;
+}
+
+.div-d {
+    width: 25%;
+    height: 45vh;
+    background-color: rgb(189, 14, 130);
+}
+
+.div-e {
+    width: 70vw;
+    height: 24%;
+    background-color: rgb(8, 99, 141);
+}
